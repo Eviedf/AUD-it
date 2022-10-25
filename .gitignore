@@ -1,0 +1,16 @@
+backend/output.txt
+frontend/.pnpm-debug.log
+backend/dummydata/datasets
+
+backend/data
+backend/dendrogram.png
+backend/my_result_file.csv
+
+backend/vertTirp/tirp/__pycache__
+backend/vertTirp/__pycache__
+backend/vertTirp/ti/__pycache__
+
+.idea
+
+backend/.pnpm-debug.log
+
