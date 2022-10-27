@@ -222,7 +222,7 @@
 {:else}
 	<div class="h-1/3 rounded border-2 bg-slate-100 border-slate-800">
 		<button class="mt-3 btn ghost-btn btn-disabled">Show interval durations</button>
-		<div class="flex justify-center items-center h-60">
+		<div class="flex justify-center items-center h-80">
 			<p
 				class="text-8xl text-center text-slate-300 hover:text-slate-400 tooltip"
 				data-tip="The duration view displays the duration distribution for a selected interval of interest. You can zoom in and select a range of interest to filter out other intervals for further exploration."

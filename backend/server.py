@@ -320,6 +320,7 @@ def format_patterns():
                         # note: line1 can be accompanied by multiple line2's
                         relations =  re.split("#", line2)
                         symseq = relations[0].strip()
+                        # Change this to a higher number if you want to mine patterns with more than two intervals!
                         if len(symseq) < 3:
                             supp = relations[1].split("ver:")[1].strip()
                             relations = relations[0].strip()
