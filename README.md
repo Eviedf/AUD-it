@@ -1,6 +1,8 @@
 # AUD-it
 AUD-it is an interactive web-application that supports the exploration of interval-based events in (1) a temporal context and (2) in context to other events. In order to run AUD-it with a dataset of interest, one can follow the following steps.
 
+Click on the following image for an instruction video:
+
 [![finaldesign](https://user-images.githubusercontent.com/25794934/197172162-44cc3ad7-9b9f-4cc9-b4c1-1de292170b06.png)](https://youtu.be/agVUjR1xvfQ)
 
 ## 1. Format the data
@@ -20,4 +22,4 @@ In _backend/server.py_, the data directory can be renamed, by default it is set 
 1. Run the backend by running _backend/server.py_
 2. Run the frontend by calling ``` pnpm dev ``` within the frontend directory
 3. Go to _http://localhost:3000/_ in your browser, you can now use AUD-it to explore your data!
-![finaldesign](https://user-images.githubusercontent.com/25794934/197172162-44cc3ad7-9b9f-4cc9-b4c1-1de292170b06.png)
+
