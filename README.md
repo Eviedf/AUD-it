@@ -1,6 +1,7 @@
 # AUD-it
 AUD-it is an interactive web-application that supports the exploration of interval-based events in (1) a temporal context and (2) in context to other events. In order to run AUD-it with a dataset of interest, one can follow the following steps.
-An instruction video can be found on: https://youtu.be/agVUjR1xvfQ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/agVUjR1xvfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1. Format the data
 Since AUD-it supports the exploration of intervals between events and relations between these intervals, the data needs to be formatted to contain the possible intervals in the data. As input data, the data should be structured according to the figure below:
